@@ -1,4 +1,4 @@
-# Dependencies
+## 1. Dependencies
 The source code developed in Python 3.8 using PyTorch 1.13.0.The required python dependencies are given below.There is no additional non-standard hardware requirements.
 ```
 torch>=1.7.1
@@ -12,7 +12,7 @@ rdkit~=2021.03.2
 yacs~=0.1.8
 comet-ml~=3.23.1 # optional
 ```
-# Example
+## 2.Example
 The datasets folder contains all experimental data used in SiamDTI: BindingDB, BioSNAP and Human. In datasets/bindingdb,datasets/biosnap and datasets/human folder.S1 fold is for known drugs and targets,S2 is for novel drugs and targets
 
 Run DrugBAN on Our Data to Reproduce Results
