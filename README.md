@@ -12,7 +12,7 @@ rdkit~=2021.03.2
 yacs~=0.1.8
 comet-ml~=3.23.1 # optional
 ```
-## 2.Example
+## 2. Example
 The datasets folder contains all experimental data used in SiamDTI: BindingDB, BioSNAP and Human. In datasets/bindingdb,datasets/biosnap and datasets/human folder.S1 fold is for known drugs and targets,S2 is for novel drugs and targets
 
 Run DrugBAN on Our Data to Reproduce Results
